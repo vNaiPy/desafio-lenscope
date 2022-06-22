@@ -31,5 +31,5 @@ O usuário insere informações da sua receita oftálmica, e o sistema deve exib
 <p>
 <strong>Funções:</strong><br>
   A Classe CalcularGrau verifica qual lente se adapta a requisição do cliente.<br>
-  A Classe VerificaGrau verifica se os valores inseridos nos parâmetros são válidos que devem ser iterados de 0,25 em 0,25.
+  A Classe VerificaGrau verifica se os valores inseridos nos parâmetros,  que devem ser iterados de 0,25 em 0,25, são válidos.
 </p>
