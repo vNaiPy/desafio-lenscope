@@ -13,8 +13,8 @@ O usuário insere informações da sua receita oftálmica, e o sistema deve exib
 </ul>
 </p>
 
+<h3>Requisitos das lentes:</h3><br>
 <p>
-<strong>Requisitos das lentes:</strong><br>
   <strong>Prime:</strong> Grau esférico do olho esquerdo ou direito entre -3 e -12 e grau cilíndrico até -2. Se o cliente possuir grau cilíndrico, o grau esférico deve ficar entre -3 e -10.<br>
   <strong>Vision:</strong> Grau esférico do olho esquerdo ou direito entre 0 e -15 e grau cilíndrico até -5.
 </p>
