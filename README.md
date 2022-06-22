@@ -15,7 +15,8 @@ O usuário insere informações da sua receita oftálmica, e o sistema deve exib
 
 <p>
 <strong>Requisitos das lentes:</strong><br>
-  <strong>Prime:</strong> Grau esférico do olho esquerdo ou direito entre -3 e -12 e grau cilíndrico até -2. Se o cliente possuir grau cilíndrico, o grau esférico deve ficar entre -3 e -10<br>
-  A Classe JogoCraps contém a função verificaJogada() que retorna se o jogador venceu ou não.<br>
-  A Classe Main dá início ao jogo e dá escolha se o jogador deseja ou não jogar os dados.
+  <strong>Prime:</strong> Grau esférico do olho esquerdo ou direito entre -3 e -12 e grau cilíndrico até -2. Se o cliente possuir grau cilíndrico, o grau esférico deve ficar entre -3 e -10.<br>
+  <strong>Vision:</strong> Grau esférico do olho esquerdo ou direito entre 0 e -15 e grau cilíndrico até -5.
 </p>
+
+<p>Obs: o cliente pode inserir valores no parâmetros de grau esférico entre 0 e -15 e grau cilíndrico de 0 e -6.</p>
