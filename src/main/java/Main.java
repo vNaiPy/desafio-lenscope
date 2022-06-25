@@ -12,7 +12,7 @@ public class Main {
         try{
             Double recebeValor;
             do{
-                System.out.println("Informe o grau esférico do olho direito: ");
+                System.out.println("Informe o grau esférico do olho direito. Ex: valores iterados de -0,25 em 0,25.");
                 recebeValor = scanner.nextDouble();
                 if(VerificaGrauValido.verificaGrauEsfericoValido(recebeValor)){
                     grausVisaoCliente.put("grauEsferDireito", recebeValor);

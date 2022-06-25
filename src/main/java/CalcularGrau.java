@@ -29,7 +29,10 @@ public class CalcularGrau {
                     return "Lente Vision";
                 }
                 else{
-                    return "Lente Prime";
+                    if(estoqueLentePrime > 0){
+                        return "Lente Prime";
+                    }
+                    return "Lente Vision";
                 }
             }
             else{
